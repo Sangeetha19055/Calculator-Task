@@ -4,7 +4,7 @@ loader_div.setAttribute("class", "loader");
 const loader_image = document.createElement("img");
 loader_image.setAttribute(
   "src",
-  "https://cdn.dribbble.com/users/1186261/screenshots/3718681/_______.gif"
+  "https://i.pinimg.com/originals/25/35/e9/2535e96f7c1a3fde96e364c2a95f06db.gif"
 );
 loader_div.append(loader_image);
 document.querySelector(".page_loader").append(loader_div);
