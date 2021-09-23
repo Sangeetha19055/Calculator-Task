@@ -34,11 +34,6 @@ calculator_Box__container.innerHTML = `
 <input onkeypress="return isNumberKey(event)"  type="text" id="inputext" placeholder="0">
 <!-- use onclick event -->
 <!-- while passing the arguments in the function use single ' ' not " " -->
- 
-
-
-
-
   <button onclick="clearbutton()">C</button>
   <button onclick="deletebutton()">DEL</button>
   <button onclick="calculator('%')">%</button>
