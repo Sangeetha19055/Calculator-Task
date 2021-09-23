@@ -278,12 +278,12 @@ a span {
         width: 100%;
         background-color: rgb(255, 253, 253);
       }
-      .loader img {
-        width: 300px;
+     .loader img {
+        width: 450px;
       }
       @media (max-width: 425px) {
         .loader img {
-          width: 200px;
+          width: 300px;
         }
       }
 
